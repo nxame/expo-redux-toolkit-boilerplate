@@ -1,3 +1,6 @@
+#### ⚠️⚠️ Work in progress  ⚠️⚠️
+------
+
 # 🚀 Expo Redux Toolkit Boilerplate
 Welcome to the **Expo Redux Toolkit Boilerplate** 🌟, your barebone skeleton starter kit for creating high-performance and scalable React Native applications using Expo. This boilerplate is meticulously configured with essential libraries and tools to jumpstart your project, ensuring a clean and efficient development environment right from the start.
 
